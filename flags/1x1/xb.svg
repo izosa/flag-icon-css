@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-xb" viewBox="0 0 512 512">
+    <rect width="512" height="512" fill="#005eb8"/>
+    <rect x="158.88" width="200.83" height="512" fill="#ffe900"/>
+    <path d="M221.42,181h75l-18.75,18.75v112.5L296.42,331h-75l18.75-18.75V199.75" fill="#da291c"/>
+    <path d="M333.92,218.5v75l-18.75-18.75H202.67L183.92,293.5v-75l18.75,18.75h112.5" fill="#da291c"/>
+    <path d="M252.67,199.75v50h-50v12.5h50v50h12.5v-50h50v-12.5h-50v-50Z" fill="#fff"/>
+</svg>
